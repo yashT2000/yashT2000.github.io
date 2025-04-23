@@ -1,27 +1,30 @@
 /* ==========================================================================
    DARK THEME
    ========================================================================== */
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 80%);
-$darker-gray                : mix(#000, $gray, 90%);
-$light-gray                 : mix(#fff, $gray, 50%);
+/* Base grayscale */
+$gray                       : #5a5a5a;
+$dark-gray                  : #1a1a1a;
+$darker-gray                : #0d0d0d;
+$light-gray                 : #999999;
 
-/* Make background as dark as possible */
-$background                 : #0a0a0a;
-$background-light           : mix(#1a1a1a, #000, 60%);
-$background-lighter         : mix(#1a1a1a, #000, 30%);
-$text                       : #f1f1f1;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+/* Backgrounds */
+$background                 : #000000; // Pure black
+$background-light           : #0a0a0a;
+$background-lighter         : #121212;
 
-/* Accent colors (unchanged unless you want those darker too) */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+/* Text and links */
+$text                       : #dddddd; // Slightly dimmer than white for comfort
+$link                       : #4ecdc4; // Softer teal/cyan
+$link-dark                  : #3bb5ac;
+$link-light                 : #70e5dd;
+
+/* Accent colors — slightly desaturated for dark theme harmony */
+$danger-color               : #cc4a4a;
+$info-color                 : #236c7c;
+$notice-color               : #666666;
+$success-color              : #45b36b;
+$warning-color              : #e67e22;
+
 
 
 
