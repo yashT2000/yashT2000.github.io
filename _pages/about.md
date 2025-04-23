@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to this random Corner of the Internet!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+
+Hi there! I’m Yash, and I’m thrilled you’ve found your way here. This website is a collection of things that I’m passionate or curious about. From my personal projects and course work to random bits of knowledge I find fascinating, from math, science or even movie reviews — you’ll find it all here.
+
+I have an interest in math, and a little bit of physics as well, but I’m genuinely curious about a lot more! Whether it’s a new concept in science or just something that piques my interest, I enjoy diving into a variety of topics.
+
+Feel free to explore, and I hope you find something that sparks your curiosity, too!
+
+
 
 A data-driven personal website
 ======
